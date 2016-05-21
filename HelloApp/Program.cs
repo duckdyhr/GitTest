@@ -12,6 +12,7 @@ namespace HelloApp
         {
             // go to https://www.youtube.com/watch?v=a_kh1JJCNMQ 
             Console.WriteLine("Another change hopes it gets pushed!");
+            Console.WriteLine("Denne ændring kun på FirstBranch, håber at kunne merge i GitHub og slette denne branch...");
         }
     }
 
