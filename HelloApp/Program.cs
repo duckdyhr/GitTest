@@ -14,4 +14,17 @@ namespace HelloApp
             Console.WriteLine("Another change hopes it gets pushed!");
         }
     }
+
+    public class A
+    {
+        public double Add(double a, double b)
+        {
+            return a + b;
+        }
+
+        public double Minus(double a, double b)
+        {
+            return a - b;
+        }
+    }
 }
